@@ -1,2 +1,0 @@
-# latihjari
-Created with CodeSandbox
